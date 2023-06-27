@@ -9,6 +9,7 @@
         <head>
             <meta charset="UTF-8" />
             <title>Produtos</title>
+            <link rel="stylesheet" href="/css/bootstrap.min.css">
         </head>
 
         <body>
